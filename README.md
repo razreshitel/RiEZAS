@@ -1,6 +1,6 @@
 # WEB APPLICATION
 
-### Readme file for web application
+### Readme file for my web application
 
 - Django
 - Postgres
